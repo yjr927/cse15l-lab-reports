@@ -1,5 +1,6 @@
 # Lab report 1
 ##cd using the command with no arguments.
+![Image](imageName.png)
 
 
 
