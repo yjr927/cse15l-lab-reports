@@ -20,8 +20,12 @@ an error occur becasue cd cannot works for file, it only works for directory
 ##ls using the command with no arguments.
 working directory:/home/lecture1
 it list current directory and files
+![Image](4.jpg)
 
 
 ##ls using the command with a path to a directory as an argument
+working directory:/home/lecture1/messages
+it list all files under the messages directory
+
 ##ls using the command with a path to a file as an argument.
 
