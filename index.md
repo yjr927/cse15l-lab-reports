@@ -47,8 +47,8 @@ cat will not take directory as an argument
 
 ##cat using the command with a file argument.
 working directory:/home/lecture1/Hello.java
-it list the file under the directory 
-![Image](6.jpg)
+it will print the file's content 
+![Image](1010.jpg)
 
 
 
