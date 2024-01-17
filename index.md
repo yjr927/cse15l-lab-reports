@@ -11,7 +11,17 @@ change current directory to lecture1
 ![Image](2.jpg)
 
 ##cd using the command with a path to a file as an argument.
-working directory:/home/lecture1/messages/en-us
+working directory:/home/lecture1/
 an error occur becasue cd cannot works for file, it only works for directory
 
-![Image](CDNoargument.jpg)
+![Image](3.jpg)
+
+
+##ls using the command with no arguments.
+working directory:/home/lecture1
+it list current directory and files
+
+
+##ls using the command with a path to a directory as an argument
+##ls using the command with a path to a file as an argument.
+
