@@ -37,13 +37,13 @@ it list the file under the directory
 ##cat using the command with no arguments.
 working directory:/home/lecture1
 cat with no argument will have a text box as an output, and waiting for user to enter more input
-![Image](4.jpg)
+![Image](88.jpg)
 
 
 ##cat using the command with a directory argument
 working directory:/home/lecture1/messages
-it list all files under the messages directory
-![Image](5.jpg)
+cat will not take directory as an argument
+![Image](99.jpg)
 
 ##cat using the command with a file argument.
 working directory:/home/lecture1/Hello.java
