@@ -1,6 +1,6 @@
 # Lab report 1
 ##cd using the command with no arguments.
-![Image](CDNoargument.jpg)
+![Image](1.jpg)
 
 ##cd using the command with a path to a directory as an argument
 
