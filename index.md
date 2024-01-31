@@ -3,7 +3,7 @@
 ![Image](1.jpg)
 
 This example will not resulted in an error.
-working directory:~~~/home.~~~
+working directory:(~~~/home~~~)
 cd using the commanc with no arguments has no ouputs, it only changes the direction to home.
 **cd using the command with a directory argument**
 ![Image](2.jpg)
