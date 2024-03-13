@@ -27,6 +27,14 @@ but the output was not what I expected. The output looks like this:*
 
 
 ---
+Reflection
+---
+*During this quarter, the most exciting thing I learned was how to use GitHub to create a website. It is cool to have my webpage. Also, during labs, I learned many valuable skills and commends, and I also learned how Gradescope works, even creating one. 
+*
+
+
+
+---
 ##The file & directory structure##
 ---
 `grade.sh`: shell script for the grading.
@@ -34,7 +42,7 @@ but the output was not what I expected. The output looks like this:*
 `TestListExamples.java`: Java file for ListExamples.java.
 `server.java`: file for server setup.
 `ta-output.txt`: a text file
-`git-output.txt`: A text file*
+`git-output.txt`: A text file
 
 ---
 ##The contents of each file before fixing the bug##
