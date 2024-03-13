@@ -3,15 +3,14 @@ Lab report 4
 Log into ieng6
 ---
 typed `ssh jiy051@ieng6.ucsd.edu`, the prese `<enter>`
-
-
-
+![image](111.jpg)
 
 
 ---
-##Reply##
+Clone your fork of the repository from your Github account (using the SSH URL)
 ---
-*Hi! This issue arises because your condition checks if the file`student/ListExamples.java`does not exist, instead of verifying its existence. The operator `!` introduces a logical error, resulting in incorrect output.*
+went to github, and found the repository, then clicked the SSH URL then `Command-C`, then typed `git clone ` then `Command-V` in vs code.
+![image](111.jpg)
 
 
 
